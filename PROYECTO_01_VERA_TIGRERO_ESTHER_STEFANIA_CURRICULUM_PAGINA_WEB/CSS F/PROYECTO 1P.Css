@@ -1,0 +1,54 @@
+
+        /* Estilos para la cabecera */
+        .cabecera {
+          background-color: #333; /* Establecemos el color de fondo */
+          color: #fff; /* Establecemos el color del texto */
+          padding: 20px; /* Damos un espacio alrededor */
+        }
+        /* Estilos para el nombre */
+        .cabecera h1 {
+          margin: 0; /* Quitamos el margen */
+          font-size: 36px; /* Establecemos el tamaño de la fuente */
+        }
+        /* Estilos para el subtítulo */
+        .cabecera h2 {
+          margin: 0; /* Quitamos el margen */
+          font-size: 24px; /* Establecemos el tamaño de la fuente */
+        }
+        .circular-image {
+        border-radius: 50%;
+        width: 200px;
+        height: 250px;
+    }
+    .text-container {
+      width: 70%; /* Ancho del contenedor */
+      margin: 0 auto; /* Centra el contenedor en la página */
+      font-size: 18px; /* Tamaño de la fuente */
+      line-height: 1.5; /* Espacio entre líneas */
+    }
+        body {
+            font-family: Arial, sans-serif;
+        }                 
+
+        header {
+            text-align: center;
+        }
+
+        section {
+        margin: 20px 0;
+        text-align: center;
+
+      
+        }
+        div {
+  text-align: center; /* para centrar las imágenes en el div */
+}
+
+img {
+  display: inline-block; /* para que las imágenes se muestren en la misma línea */
+}
+
+
+
+
+    
